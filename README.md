@@ -1,5 +1,4 @@
-This installs the cusomizations I prefer to use on MacOS, this is the public edition.
-
+This script (customs.sh) installs the cusomizations I prefer to use on MacOS, this is the public edition. 
 ---
 
 # My Priority Tool List
